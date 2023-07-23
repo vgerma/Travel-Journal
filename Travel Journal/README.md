@@ -5,5 +5,3 @@ This is a solution to the Travel Journal solo project on Scrimba.
 ### Link(Live Site)
 https://gaurav-verma-travel-journal.netlify.app/
 
-## Screenshot
-![screenshot](images\Screenshot (170).png)
